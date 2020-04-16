@@ -1,0 +1,51 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/untitled/main.py" timestamp="1587046607615">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1587046501397">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyDopoHkv53or4FydWxlc+mHjOmdoueahHJ1bGXmjInnhafnva7kv6HluqblkozpnZ7pgJrphY3nrKbmlbDph4/mjpLliJcK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyDopoHkv53or4FydWxlc+mHjOmdoueahHJ1bGXmjInnhafnva7kv6HluqblkozpnZ7pgJrphY3nrKbmlbDph4/mjpLliJcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
